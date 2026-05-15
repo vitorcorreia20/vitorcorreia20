@@ -29,4 +29,4 @@ https://vitorcorreia.vercel.app
 ---
 
 ### Contato
-[LinkedIn](https://linkedin.com/in/vitordossantoscorreia) • [E-mail](mailto:contato.vitorcorreiadm@gmail.com) • [WhatsApp](https://wa.me/<86995769910>)
+[LinkedIn](https://linkedin.com/in/vitordossantoscorreia) • [E-mail](mailto:contato.vitorcorreiadm@gmail.com) • [WhatsApp](https://wa.me/<+55(86)995769910>)
