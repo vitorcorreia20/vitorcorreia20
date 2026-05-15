@@ -1,78 +1,72 @@
-# Olá, eu sou o Vitor Correia! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=thinner&color=007ACC&height=100&section=header&text=Vitor%20Correia&fontSize=50&animation=fadeIn" />
+</p>
 
-**Desenvolvedor de Software | [Fullstack]**
+# Desenvolvedor Fullstack
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor focado em construir aplicações eficientes, escaláveis e com uma experiência de usuário (UX) excepcional. Gosto de resolver problemas complexos e transformar linhas de código em soluções reais e criativas.
+Focado no ecossistema JavaScript/TypeScript (Next.js/Node) e APIs robustas em Java. Apaixonado por transformar desafios de engenharia em interfaces imersivas e experiências de usuário de alto nível.
 
-> 🪐 **Destaque:** Quer ver meu código ganhando vida de uma forma diferente? **[Explore meu Sistema Solar 3D](https://vitorcorreia.vercel.app/)**, onde meus projetos orbitam como planetas em uma experiência interativa desenvolvida com React Three Fiber e Next.js!
+> 🪐 **Destaque:** Explore meus projetos em um ecossistema 3D interativo!
 
----
-
-## 🛠️ Habilidades e Tecnologias
-
-Como desenvolvedor Fullstack, atuo desde a estruturação de lógicas robustas no back-end até a construção de interfaces de usuário dinâmicas. Aqui estão as principais tecnologias da minha stack:
-
-### Linguagens Principais
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Front-end & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Back-end & Runtimes
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <a href="https://portifolio-universe.vercel.app">
+    <img src="https://image.pollinations.ai/prompt/A_cinematic_high-resolution_screenshot_of_the_Universe_Portfolio_website_created_by_Vitor_Correia.The_image_shows_a_3D_interactive_galaxy_in_dark_mode,with_a_glowing_Sun_at_the_center_and_multiple_planets_orbiting_it_on_defined_paths.Each_planet_represents_a_project.The_mouse_cursor_is_hovering_over_one_planet_named_%27Java_Bank%27.A_Glassmorphism-style_HUD_popup_is_visible_near_the_planet,displaying_text:%27Java_Bank-Implementation_of_object-oriented_patterns_in_a_banking_simulation.%27The_atmosphere_is_immersive_space,nebula,glowing_stars.URL_bar_shows_vitorcorreia.vercel.app.The_capture_angle_shows_3D_depth." alt="Universe Portfolio 3D Screenshot" width="100%" style="border-radius: 10px; border: 2px solid #007ACC;" />
+  </a>
+  <i>Visite a galáxia ao vivo: <a href="https://vitorcorreia.vercel.app">vitorcorreia.vercel.app</a></i>
+</p>
 
 ---
 
-## 🎓 Formação e Cursos
+## 🚀 Projetos em Destaque (Engenharia & Solução)
 
-### 🏫 Formação Acadêmica
-* **Tecnologia em Sistemas de Computação** — UESPI (Conclusão prevista para 2026)
+Aqui estão os repositórios que demonstram minha capacidade técnica em resolver problemas reais:
 
-### 📜 Certificações & Bootcamps (Destaques)
-* **Bootcamp Santander 2024 - Backend com Java** — [Digital Innovation One (DIO)](https://www.dio.me/)
-    * *Foco: Desenvolvimento de aplicações robustas com Java, Spring Boot e boas práticas de POO.*
-* **Trilha Java Básico** — Digital Innovation One (DIO)
-    * *Fundamentos da linguagem, sintaxe e estruturas de controle.*
-* **Programação Orientada a Objetos (POO)** — Fundação Bradesco
-    * *Aplicação dos pilares de Abstração, Encapsulamento, Herança e Polimorfismo.*
+### ☀️ Universe Portfolio 3D
+* **Problema:** Portfólios tradicionais são estáticos e falham em engajar ou mostrar a complexidade técnica de renderização 3D.
+* **Solução:** Desenvolvi um sistema solar onde repositórios do GitHub orbitam um Sol central. Consumo dinâmico da API do GitHub e renderização de documentação em HUD holográfico.
+* **Stack Principal:** `Next.js (App Router)`, `React Three Fiber`, `Three.js`, `TypeScript`, `Tailwind CSS`.
+* 🔗 [Ver Repositório](https://github.com/vitorcorreia20/portifolio-universe) | 🪐 [Explorar Galáxia](https://vitorcorreia.vercel.app)
 
----
+### 🏦 Banco POO (Java)
+* **Problema:** Necessidade de simular transações bancárias complexas garantindo a integridade dos dados e padrões de segurança básicos.
+* **Solução:** Implementação completa de um sistema bancário usando os pilares da Programação Orientada a Objetos (Herança, Polimorfismo, Encapsulamento). Aplicação de Design Patterns para escalabilidade.
+* **Stack Principal:** `Java`, `OOP`, `Clean Architecture`.
+* 🔗 [Ver Repositório](https://github.com/vitorcorreia20/desafio-banco-poo)
 
-## 🏆 Experiência e Liderança
-
-Mesmo focado em projetos acadêmicos e pessoais, busco estar sempre envolvido com a comunidade de tecnologia e inovação:
-
-### Finalista - I Ideathon UFDPar
-**Universidade Federal do Delta do Parnaíba (UFDPar)** | 2024
-
-* Participei da maratona de ideação focada em resolver problemas reais através da tecnologia.
-* Trabalhei em equipe para desenvolver propostas de valor, prototipagem de soluções e apresentação de *pitch* para bancas avaliadoras.
-* Desenvolvi habilidades de pensamento crítico, inovação e resolução de problemas sob pressão.
-
-### Organizador - Semana da Computação (SeCom)
-**Universidade Estadual do Piauí (UESPI) - Campus Parnaíba** | 2025
-
-* Atuei na linha de frente da organização de um dos mais estimados eventos de computação da região.
-* Responsável por auxiliar na logística do evento, gestão de cronogramas e engajamento dos alunos com as novas tecnologias.
-* Desenvolvimento de *Soft Skills* como liderança, comunicação assertiva e trabalho em equipe.
-
-### Organizador - Hacktoberfest 2025 PHB Edition
-**Parnaíba/PI** | 2025
-
-* Liderei a organização da edição local do maior evento global de celebração ao Open Source.
-* Auxiliei novos desenvolvedores no processo de abertura de Pull Requests e contribuição em projetos reais.
-* Fortaleci a cultura de colaboração e código aberto na comunidade local de Parnaíba.
+### [📚 Projeto AG - Primeira Avaliação]
+* **Problema:** Implementar 2 algoritmos genéticos para otimização de 2 problemas selecionados do artigo apresentado em sala conforme os slides.
+* **Solução:** O objetivo principal do projeto é demonstrar de forma prática os conceitos de Algoritmos Genéticos.
+* **Stack Principal:** `Python`, `Numpy`, `Time`.
+* 🔗 [Ver Repositório](https://github.com/vitorcorreia20/-Projeto-AG---Primeira-Avaliacao)
 
 ---
 
-## 📊 Minhas Atividades e Métricas
+## 🛠️ Tecnologias e Hierarquia Técnica
 
-Aqui está um panorama geral do meu trabalho e evolução no GitHub:
+<p align="left">
+  <strong>Stack Principal (Foco Atual):</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,nextjs,nodejs,tailwind,git,vercel" />
+  </a>
+</p>
+<p align="left">
+  <strong>Outras Ferramentas & Conhecimentos:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,vscode" />
+  </a>
+</p>
+
+---
+
+## 💼 Liderança & Comunidade (Soft Skills em Ação)
+
+* **Organizador do Hacktoberfest 2025 PHB Edition** 🎃
+* **Organizador da Semana da Computação (SeCom)** - UESPI 💻
+* **Finalista do I Ideathon UFDPar** 🏆
+
+---
+
+## 🏆 Atividade no GitHub
 
 <p align="left">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorcorreia20&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" />
@@ -81,10 +75,9 @@ Aqui está um panorama geral do meu trabalho e evolução no GitHub:
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📫 Vamos conversar?
 
-Se você gostou do meu perfil ou quer trocar uma ideia sobre desenvolvimento Fullstack e experiências imersivas:
-
-* 🪐 **Portfólio 3D:** [Explore meu Sistema Solar](https://vitorcorreia.vercel.app)
-* 💼 **LinkedIn:** [vitorcorreia20](https://linkedin.com/in/vitordossantoscorreia)
-* 📧 **E-mail:** [contato.vitorcorreiadm@gmail.com]
+<p align="left">
+  <a href="https://linkedin.com/in/vitordossantoscorreia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato.vitorcorreiadm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
