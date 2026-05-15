@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thinner&color=007ACC&height=100&section=header&text=Vitor%20Correia&fontSize=50&animation=fadeIn" />
-</p>
-
 # Desenvolvedor Fullstack
 
 Focado no ecossistema JavaScript/TypeScript (Next.js/Node) e APIs robustas em Java. Apaixonado por transformar desafios de engenharia em interfaces imersivas e experiências de usuário de alto nível.
@@ -9,8 +5,8 @@ Focado no ecossistema JavaScript/TypeScript (Next.js/Node) e APIs robustas em Ja
 > 🪐 **Destaque:** Explore meus projetos em um ecossistema 3D interativo!
 
 <p align="center">
-  <a href="https://portifolio-universe.vercel.app">
-    <img src="https://image.pollinations.ai/prompt/A_cinematic_high-resolution_screenshot_of_the_Universe_Portfolio_website_created_by_Vitor_Correia.The_image_shows_a_3D_interactive_galaxy_in_dark_mode,with_a_glowing_Sun_at_the_center_and_multiple_planets_orbiting_it_on_defined_paths.Each_planet_represents_a_project.The_mouse_cursor_is_hovering_over_one_planet_named_%27Java_Bank%27.A_Glassmorphism-style_HUD_popup_is_visible_near_the_planet,displaying_text:%27Java_Bank-Implementation_of_object-oriented_patterns_in_a_banking_simulation.%27The_atmosphere_is_immersive_space,nebula,glowing_stars.URL_bar_shows_vitorcorreia.vercel.app.The_capture_angle_shows_3D_depth." alt="Universe Portfolio 3D Screenshot" width="100%" style="border-radius: 10px; border: 2px solid #007ACC;" />
+  <a href="https://vitorcorreia.vercel.app">
+    <img src="img/universe-portifolio.png">
   </a>
   <i>Visite a galáxia ao vivo: <a href="https://vitorcorreia.vercel.app">vitorcorreia.vercel.app</a></i>
 </p>
