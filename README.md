@@ -1,4 +1,7 @@
-# Desenvolvedor Fullstack
+# Olá, eu sou o Vitor Correia 👋
+### Desenvolvedor FullStack
+
+---
 
 Focado no ecossistema JavaScript/TypeScript (Next.js/Node) e APIs robustas em Java. Apaixonado por transformar desafios de engenharia em interfaces imersivas e experiências de usuário de alto nível.
 
@@ -26,12 +29,12 @@ Aqui estão os repositórios que demonstram minha capacidade técnica em resolve
 ### 🏦 Banco POO (Java)
 * **Problema:** Necessidade de simular transações bancárias complexas garantindo a integridade dos dados e padrões de segurança básicos.
 * **Solução:** Implementação completa de um sistema bancário usando os pilares da Programação Orientada a Objetos (Herança, Polimorfismo, Encapsulamento). Aplicação de Design Patterns para escalabilidade.
-* **Stack Principal:** `Java`, `OOP`, `Clean Architecture`.
+* **Stack Principal:** `Java`, `OOP`, `Clean Code`.
 * 🔗 [Ver Repositório](https://github.com/vitorcorreia20/desafio-banco-poo)
 
-### [📚 Projeto AG - Primeira Avaliação]
-* **Problema:** Implementar 2 algoritmos genéticos para otimização de 2 problemas selecionados do artigo apresentado em sala conforme os slides.
-* **Solução:** O objetivo principal do projeto é demonstrar de forma prática os conceitos de Algoritmos Genéticos.
+### 🧬 Otimização com Algoritmos Genéticos (Python)
+* **Problema:** Necessidade de encontrar soluções eficientes para problemas complexos de otimização onde abordagens de força bruta são inviáveis computacionalmente.
+* **Solução:** Desenvolvimento de algoritmos genéticos baseados em pesquisa acadêmica para simular seleção natural (mutação, crossover) na otimização de variáveis matemáticas.
 * **Stack Principal:** `Python`, `Numpy`, `Time`.
 * 🔗 [Ver Repositório](https://github.com/vitorcorreia20/-Projeto-AG---Primeira-Avaliacao)
 
