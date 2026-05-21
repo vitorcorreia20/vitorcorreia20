@@ -30,7 +30,10 @@ Aqui estão os repositórios que demonstram minha capacidade técnica em resolve
 * **Problema:** Necessidade de simular transações bancárias complexas garantindo a integridade dos dados e padrões de segurança básicos.
 * **Solução:** Implementação completa de um sistema bancário usando os pilares da Programação Orientada a Objetos (Herança, Polimorfismo, Encapsulamento). Aplicação de Design Patterns para escalabilidade.
 * **Stack Principal:** `Java`, `OOP`, `Clean Code`.
-* 🔗 [Ver Repositório](https://github.com/vitorcorreia20/desafio-banco-poo)
+  
+![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=vitorcorreia20%2Fdesafio-banco-poo&lang=en&theme=github&image=https%3A%2F%2Fres.cloudinary.com%2Fdn1yfqhqy%2Fimage%2Fupload%2Fv1779040026%2Fnotfound_vvsr5q.png&techs=Java&showStars=true&showForks=true)
+
+
 
 ### 🧬 Otimização com Algoritmos Genéticos (Python)
 * **Problema:** Necessidade de encontrar soluções eficientes para problemas complexos de otimização onde abordagens de força bruta são inviáveis computacionalmente.
