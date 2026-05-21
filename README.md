@@ -24,14 +24,19 @@ Aqui estão os repositórios que demonstram minha capacidade técnica em resolve
 * **Problema:** Portfólios tradicionais são estáticos e falham em engajar ou mostrar a complexidade técnica de renderização 3D.
 * **Solução:** Desenvolvi um sistema solar onde repositórios do GitHub orbitam um Sol central. Consumo dinâmico da API do GitHub e renderização de documentação em HUD holográfico.
 * **Stack Principal:** `Next.js (App Router)`, `React Three Fiber`, `Three.js`, `TypeScript`, `Tailwind CSS`.
-* 🔗 [Ver Repositório](https://github.com/vitorcorreia20/portifolio-universe) | 🪐 [Explorar Galáxia](https://vitorcorreia.vercel.app)
+* 🪐 [Explorar Galáxia](https://vitorcorreia.vercel.app)
+
+<a href= "https://github.com/vitorcorreia20/portifolio-universe/">
+  <img src="https://github-project-cards.vercel.app/api/project-card?repo=vitorcorreia20%2Fportifolio-universe&lang=en&theme=github&image=https%3A%2F%2Fres.cloudinary.com%2Fdxtewkgv0%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2FCaptura_de_tela_2026-05-19_171238_xs5gij&techs=TypeScript%2C+Next.js&showStars=true&showForks=true)">
+</a>
+
 
 ### 🏦 Banco POO (Java)
 * **Problema:** Necessidade de simular transações bancárias complexas garantindo a integridade dos dados e padrões de segurança básicos.
 * **Solução:** Implementação completa de um sistema bancário usando os pilares da Programação Orientada a Objetos (Herança, Polimorfismo, Encapsulamento). Aplicação de Design Patterns para escalabilidade.
 * **Stack Principal:** `Java`, `OOP`, `Clean Code`.
-  
-![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=vitorcorreia20%2Fdesafio-banco-poo&lang=en&theme=github&image=https%3A%2F%2Fres.cloudinary.com%2Fdn1yfqhqy%2Fimage%2Fupload%2Fv1779040026%2Fnotfound_vvsr5q.png&techs=Java&showStars=true&showForks=true)
+** 🔗 [Ver Repositório](https://github.com/vitorcorreia20/desafio-banco-poo)
+
 
 
 
