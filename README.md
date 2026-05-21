@@ -9,7 +9,7 @@ Focado no ecossistema JavaScript/TypeScript (Next.js/Node) e APIs robustas em Ja
 
 <p align="center">
   <a href="https://vitorcorreia.vercel.app">
-    <img src="img/universe-portifolio.png">
+    <img src="https://res.cloudinary.com/dxtewkgv0/image/upload/f_auto,q_auto/Captura_de_tela_2026-05-19_171238_xs5gij">
   </a>
   <i>Visite a galáxia ao vivo: <a href="https://vitorcorreia.vercel.app">vitorcorreia.vercel.app</a></i>
 </p>
