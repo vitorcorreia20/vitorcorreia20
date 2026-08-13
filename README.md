@@ -70,6 +70,7 @@ Aqui estão os repositórios que demonstram minha capacidade técnica em resolve
 * **Organizador do Hacktoberfest 2025 PHB Edition** 🎃
 * **Organizador da Semana da Computação (SeCom)** - UESPI 💻
 * **Finalista do I Ideathon UFDPar** 🏆
+* **2° Colocado na Maratona Do Piauí Para o Mundo** 🏆
 
 ---
 
