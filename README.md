@@ -77,8 +77,8 @@ Aqui estão os repositórios que demonstram minha capacidade técnica em resolve
 ## 🏆 Atividade no GitHub
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorcorreia20&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorcorreia20&layout=compact&theme=dark&hide_border=true&title_color=007ACC&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorcorreia20&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcorreia20&layout=compact&theme=dark&hide_border=true&title_color=007ACC&text_color=ffffff" />
 </p>
 
 ---
